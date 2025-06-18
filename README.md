@@ -16,7 +16,7 @@ This **Mobile Sales Dashboard** is an interactive Power BI report designed to he
 - **Customer Ratings Breakdown**: 1 to 5 stars
 - **Regional Sales Map**: Major cities like Mumbai, Delhi, Hyderabad, Kolkata, etc.
 - **Sales Trends**: By month and by day of the week
-
+https://app.powerbi.com/view?r=eyJrIjoiNzNkNGYxOGEtNjUwOS00ZmU3LWE1YjctMTA4ZGNjNDBkN2YzIiwidCI6IjQ1OTUxZDVlLTk1ZjItNGZkNy1iYzRjLTgyNmIzNzhhNjRiNCJ9
 ---
 
 ## 📌 Features
